@@ -1,2 +1,2 @@
 # Trading
- Trading class
+1st trading project
